@@ -1,0 +1,14 @@
+book_filename: "series"
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: [
+  "index.Rmd",
+  "lab-philosophy.Rmd",
+  "advising-mentorship.Rmd",
+  "individual-expectations.Rmd",
+  "communication-organization.Rmd",
+  "research-practices.Rmd",
+  "ubc-logistics.Rmd"]
+delete_merged_file: true 
+output_dir: "docs"

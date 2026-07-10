@@ -1,0 +1,34 @@
+--- 
+title: "Quantitative Ecology Lab Manual"
+author: "Authored by Michael Noonan"
+date: "Updated `r Sys.Date()`"
+subtitle: Policies, expectations, and guidance for members of the Quantitative Ecology Lab at
+  UBC - Okanagan
+site: bookdown::bookdown_site
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+biblio-style: apalike
+link-citations: true
+github-repo: openscapes/series
+description: Manual for the Quantitative Ecology Lab at UBC.
+---
+
+# Welcome {-}
+
+![](img/qel_logo.png)
+
+The Quantitative Ecology Lab at the University of British Columbia - Okanagan is based in the Department of [Biology](https://biology.ok.ubc.ca), and affiliated with the [The Okanagan Institute for Biodiversity, Resilience, and Ecosystem Services (BRAES)](https://braes.ok.ubc.ca/). The Quantitative Ecology Lab is focused on protecting vulnerable species and the ecosystems on which they depend. The lab's research is centered on the recognition that good conservation science begins with an honest accounting of what the data can and cannot tell us. We develop and apply rigorous statistical tools that ensure the evidence used to support conservation decisions is both accurate and reliable.
+
+This lab manual is a living document, and is meant to provide a central place for current and future members of the Quantitative Ecology Lab to access information about our policies, expectations, and collaboration and research practices. 
+
+<a align="left" href="https://github.com/QuantitativeEcologyLab/lab_manual/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a> <- link to this manual's GitHub repository
+
+
+#### Acknowledgements {-}
+
+The University of British Columbia's Okanagan campus is situated on the traditional, ancestral, and unceded territory of the Syilx.
+
+Much of the content in this lab manual came from other manuals, including the [Gaynor Lab Manual](https://gaynor-lab.github.io/lab-manual/), and Phil Barker (UBC Okanagan).
+

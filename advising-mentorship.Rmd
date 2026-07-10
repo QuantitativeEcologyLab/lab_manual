@@ -1,0 +1,86 @@
+# Advising and mentorship {#advising}
+
+
+## Mentorship philosophy
+
+The Quantitative Ecology Lab trains scientists. The goal is to develop independent thinkers who can identify important questions, design rigorous studies to address them, and communicate the results clearly and honestly. Trainees in the Quantitative Ecology Lab are expected to take ownership of their research questions, while being provided with the structure and support needed to develop as independent scientists. Developing independence takes time and looks different at every career stage. Early on in your project, you can expect more structure, more frequent check-ins, and more direct input on direction, ensuring you understand not just what you are doing but why. As both your project and judgment develop, that structure eases. While you are expected to be able to work through problems on your own, know that you are never alone and I will always be there to support you when you need it.
+
+I take my responsibility for your future seriously and will work with you to ensure your time in the lab is relevant to your academic and career goals.
+
+## Individual development plans
+
+Within the first few weeks of joining the Quantitative Ecology Lab, you should work with Dr. Noonan to create an individual development plan outlining your short, medium, and long term goals. This is a useful planning document that assists in aligning expectations. Each lab member will revisit their development plan with Dr. Noonan at the start of each semester. Graduate students should complete a new development plan at the start of each academic year.
+
+A template for completing your individual development plans can be found [here](https://ubc.ca1.qualtrics.com/jfe/form/SV_doiyIDxnngnlklU).
+
+In addition to these individualized plans, which will guide specific self-defined expectations, Chapter \@ref(expectations) clarifies expectations for all lab members in their interactions with Dr. Noonan.
+
+
+### For undergraduate lab members
+
+Undergraduate students are integrated into the lab on the same terms as graduate students, participating in lab meetings, shared workflows, and peer writing groups. You may be working most closely with a graduate student or postdoc in the Quantitative Ecology Lab, in which case they will be your primary source of contact. You should work with them to establish and define your work schedule, protocols for your work, and to ensure you have the necessary equipment to perform your work tasks.  
+
+You are always welcome to reach out to [Dr. Noonan](mailto:michael.noonan@ubc.ca) directly.
+
+
+## Supervisory expectations
+
+The College of Graduate Studies has outlined [detailed guidance](https://gradstudies.ok.ubc.ca/academics/student-supervisor-expectations/) for mentorship and supervision, including the expectations for supervisors of graduate students. For graduate students, as your supervisor, you can expect me to:
+
++ Demonstrate commitment to your research and educational program, and offer stimulation, respectful support, constructive criticism, and consistent encouragement.
++ Assist with identification of a research topic that is suitable for you and manageable within the scope of your degree.
++ Have sufficient familiarity with your field of research to provide guidance as a supervisor.
++ Assist you in gaining access to required facilities or research materials for your projects.
++ Discuss your financial support issues and assist with scholarship applications and/or providing advice on academic employment opportunities.
++ Provide guidance in the ethical conduct of research and model research integrity.
++ Discuss with you the implications (positive and negative) of engaging with activities/work unrelated to your thesis topic.
++ Provide information about my availability for meetings and expectations about preparation for meetings. 
++ Assist you in planning your research program, setting a time frame, and adhering as much as possible to the schedule.  
++ Encourage you to finish up when it would not be in your best interest to stay longer.
++ Be accessible for consultation and discussion of your academic progress and research at a minimum of once a term.
++ Minimise my expectations for activities/work that may interfere with your thesis completion.
++ Institute a supervisory committee (with appropriate input from you) and help you prepare for committee meetings, which will occur on a regular basis (at least once a year) to review your progress and provide guidance for your future work.
++ For PhD students, support you in your preparation for the comprehensive examination and admission to candidacy which will be completed within 36 months of program initiation (preferably before months 12-18).
++ Act as a resource about managing program requirements, deadlines, etc.
++ Attend your presentations in appropriate venues and join in associated discussion.
++ Submit recommendations for external examiners and university examiners for the doctoral dissertation within the time frames required by the Faculty of Graduate and Postdoctoral Studies.
++ Acknowledge your contributions, when appropriate, in published material and oral presentations in accordance with good scholarly practice and the University of British Columbia scholarly integrity policies.
++ Provide reasonable expectations about work day hours and vacation time in accordance with University of British Columbia policies.
++ Clarify my preferred style of communication with students about areas, such as student independence, approaches to conflict, direct questioning, and mentoring.
++ Explain my expectations for mode of address, professional behaviour (e.g. punctuality), when to seek assistance, response to constructive criticism, and academic performance expectations.
++ Assist you to overcome any cultural difficulties with norms and expectations. 
++ Respond thoroughly (with constructive suggestions for improvement) and in a timely fashion to submitted, written work.
++ Promote a research environment that is safe and free from harassment.
++ Assist in managing conflict or differences among members of the supervisory committee.
++ Make arrangements to ensure adequate supervision if I am absent for extended periods, e.g. more than a month.
++ Encourage you to present your research results within and outside the University.
++ Provide mentoring in academic writing.
++ Provide advice and mentorship with respect to career opportunities, which may be assisted by resources, skills, professional development, and other avenues.
+
+I (Dr. Noonan) will make every effort to meet these expectations for each member of the lab, although I acknowledge that I am human and sometimes things may unintentionally slip past me. If you find that I am not meeting these expectations, please bring up your questions or concerns sooner rather than later (ideally in our individual meetings, or via e-mail if more comfortable) so that we can talk through them, clarify mutual expectations, course-correct, and ensure the situation improves rather than worsens. Feel free to refer back to this lab manual.
+
+## Committee member expectations
+
+This guidance is intended for graduate students who have me (Dr. Noonan) on their committees, or who are interested in having me serve on their committee. Serving on graduate student committees is a rewarding responsibility and I enjoy the opportunity to dive into a diversity of research topics, learn about new disciplines, and lend expertise and advice when relevant. To allow us to get the most out of the student-committee member relationship, I am laying out some general expectations, which we can discuss and adapt according to your individual needs. Ultimately, this guidance will enable me to better support you as a committee member. 
+
+#### What I expect of you:
+
++ Touch base with me at least once a year (ideally once a term), even if just a brief e-mail to let me know where you're at with your project, and what's on the horizon.
++ Plan to check in with me before embarking on a major aspect of your project (e.g., data collection, analyses), either during committee meetings, one-on-one meetings, or via e-mail. I do not intend on overriding your supervisor's advice, but this will allow me to give constructive feedback on study design before you have invested a significant amount of time.  
++ Check in with me several months ahead of large milestones (comprehensive exams, proposal defense, chapter draft completion) so that I can advise you of any limitations in my availability.
++ Please give me a heads up about when you plan to send written material for feedback. I aim to turn around written feedback within 2-3 weeks, though this may be longer during particularly busy periods.
++ When asking for feedback on written material, please let me know what kind of feedback would be most useful (do you want me to comment on high-level ideas, writing, modelling, figure design, etc.) and if there are particular areas that you would like me to focus my attention (either given my expertise, or given where you feel the greatest need for feedback).
++ For comprehensive exams, please discuss reading lists with me several months in advance.
++ I do not believe that being a committee member in-and-of-itself warrants co-authorship on any papers arising from your thesis. However, if my engagement with your work rises to the level of a collaborator (e.g., regular meetings, direct contributions to study design, analysis, and/or writing) co-authorship is something we should discuss explicitly and early.
+
+#### What you can expect of me:
+
++ I will give thoughtful feedback on your proposals and chapters either during meetings or in writing. This feedback will be timely, assuming ample advance notice as discussed above.
++ If my level of engagement is rising to the level of a coauthor/collaborator (something that we should determine in consultation with your primary advisor), you can expect me to provide an even higher level of contribution (more direct edits to writing, code contributions, greater intellectual engagement, more frequent meetings, etc.).
++ I will make every effort to be constructive, empathetic, and reasonable, and will respect you as the ultimate decision-maker with regard to your own research.
++ I will be honest about my limitations, either in my time or expertise, and try to direct you to outside resources that may be able to fill in any gaps.
++ If you are interested in talking more broadly about professional development or careers, I will make myself available for those conversations.
++ To the best of my ability, I will prioritise formal committee requirements in my calendar (e.g., annual committee meetings, proposal defences, etc.).
++ If the student-committee relationship is not working, I am open to that conversation without any hard feelings.
++ If you are struggling with your supervisor or any other aspect of your graduate experience, I am happy to speak with you confidentially.
+

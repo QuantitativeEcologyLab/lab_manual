@@ -1,0 +1,126 @@
+# Lab philosophy and code of conduct {#philosophy}
+
+## Lab philosophy
+
+As part of our core lab culture, we:  
+
+* Practice open science
+* Question everything
+* Are honest, but kind
+* Show up and engage
+* Ask questions and embrace a growth mindset
+* See the forest for the trees
+* Control the controllable
+* Work to live, don't live to work
+* Acknowledge and give credit
+* Celebrate accomplishments
+* Foster inclusivity
+
+
+##### Practice open science {-}
+
+Open science doesn't only help us, it helps the entire scientific community. We are committed to conducting and sharing our research in ways that make it possible for others to reproduce, build on, and challenge our work. In practice, this means that all of the code, data (when feasible), and analytical workflows underlying the Quantitative Ecology Lab's research are documented and made publicly available, and that methods are reported with enough detail to be reproduced. Open science is not a box to check at the end of a project. It is a work ethic that shapes how our research is designed and conducted from the start. Open, reproducible workflows with clear documentation are habits we establish early and continually build on.
+
+##### Question everything {-}
+
+Good science is not just about finding answers, but about challenging the questions themselves, the methods used to address them, and the conclusions drawn from the results. In the Quantitative Ecology Lab, we approach our work with the same critical eye we would apply to anyone else's. This means asking whether the statistical tools we are using are actually suited to the question at hand, whether the assumptions underlying our models hold in practice, and whether our interpretations are justified. We question whether our study designs are adequate, whether our sampling is representative, whether our conclusions are appropriate, and whether the theory and frameworks we have inherited from the literature deserve the authority we give them. A result that holds up to hard questioning is worth publishing. One that doesn't is an opportunity to learn, grow, and improve our science.
+
+##### Are honest, but kind {-}
+
+Honest feedback is how science improves, and how we improve as scientists. We question the work of others, but we know that we will also have our own work challenged. When we review each other's work, we say what we actually think, because vague or overly gentle feedback helps no one, but criticism is directed at the work, not the person, and it is offered in the spirit of making the science better, not tearing it down. This applies in all directions. If we think an approach is wrong, a conclusion is overreached, or a plan is not working, we say so. Disagreement handled openly, early, and in the spirit of cooperation is productive.
+
+##### Show up and engage {-}
+
+Research happens through conversation, exposure to other people's ideas, and the slow accumulation of intellectual habits that come from being embedded in a scientific community. Attending seminars, lab meetings, and departmental events is not optional. It is part of the job, and part of how we develop as scientists. Showing up physically is the minimum. We come prepared to engage. When it is our turn to lead, we prepare in advance, come with an agenda, and have something to show. When it is not, we keep an open mind and engage with what others are presenting. Passive attendance is not participation. The lab can only function as an intellectual community when everyone contributes to it.
+
+##### Ask questions and embrace a growth mindset {-}
+
+No one arrives in this lab knowing everything they need to know. That is expected. What is not acceptable is staying quiet when something is unclear, or avoiding challenges because failure feels like a reflection of ability rather than a normal part of learning. We ask questions, even if they feel basic, because a question asked early saves weeks of work in the wrong direction. We are not born with skills in statistics, scientific writing, and critical thinking. These are developed through practice and honest self-assessment. We know that everyone is somewhere on that trajectory and that the expectation is not perfection but showing up, working hard, asking for help when needed, and being willing to revise.
+
+##### See the forest for the trees {-}
+
+Statistical rigour and sound inference are necessary, but they are not sufficient. We recognise that good science also requires knowing why the question matters, and articulating how our work connects to broader problems in ecology and conservation. We know that that wider perspective does not come easily, but comes from always keeping an open mind, reading broadly, and questioning everything. The Quantitative Ecology Lab works at the interface of fundamental and applied science. Understanding where our work fits in that space, and being able to communicate it to non-specialists, government partners, and the public, is part of what it means to be a scientist in this lab.
+
+##### Control the controllable {-}
+
+Research is full of things that do not go as planned. Some things we can control, others we cannot, and knowing the difference matters. Spending energy on the latter leads to stress and lost productivity, so we focus on the things we have control over. We come to meetings with an agenda, we work with quality and attention to detail, and put care into our writing. We cannot control when a paper is accepted, but we can control how well it is written before we submit it. We recognise that the most reliable path to success is consistency. Showing up and doing the work well, day after day, while not getting derailed by the things we have no way of changing.
+
+##### Work to live, don't live to work {-}
+
+Academic culture has a long-standing problem with treating overwork as a signal of commitment. We do not share that view. Sustained productivity over the course of a career requires rest, interests outside the lab, and maintaining a healthy mind. We do not reward unsustainable work habits, and we do not treat being busy as an achievement. At the same time, we recognise that academia is demanding. There will be periods of intense effort. The goal is not to avoid hard stretches, but to minimise them by having a plan and knowing where to focus our efforts, recovering from them when they are unavoidable, and not treating them as a permanent baseline.
+
+##### Acknowledge and give credit {-}
+
+Science is cumulative. Every paper we write, every analysis we run, and every idea we develop builds on the work of others. If someone else's feedback shaped our thinking, their code underpinned our analysis, or their data made our study possible, that contribution is acknowledged. We know that giving credit where credit is due builds trust and lays the foundations for future partnerships. Taking credit for work that is not ours, or failing to acknowledge the contributions of others corrodes it.
+
+##### Celebrate accomplishments {-}
+
+Research is hard and progress is often slow. We recognise and celebrate the wins, big and small, our own and each other's. We know that a successful analysis, a thesis chapter drafted, a paper accepted, a conference presentation delivered well all deserve acknowledgment. We are not competing with each other. Someone else's success is not our failure. It is evidence that the work we are all doing together is having an impact and we are proud to be part of it.
+
+##### Foster inclusivity {-}
+
+Ecological research has historically excluded people along lines of race, gender, disability, class, and national origin. Those exclusions have shaped which questions get asked and whose knowledge counts, to the detriment of the greater good. The Quantitative Ecology Lab is committed to counteracting those patterns by building and maintaining a diverse, equitable, and inclusive environment. We recognise that we all carry inherent biases that can not be removed, but we can still work on both being less biased, and more aware of bias in ourselves and others. We periodically [check in on our biases](https://medium.com/better-humans/cognitive-bias-cheat-sheet-55a472476b18) and strive to be mindful of our own assumptions, to listen when others share experiences different from our own, and to create a space where everyone feels able to contribute regardless of background or career stage. The problems we work on place us alongside people with different expertise, values, and ways of knowing. We do not treat those differences as obstacles, but as assets.
+
+
+## Code of conduct
+
+A _Code of Conduct_ is a set of basic ground rules that we ask participants in lab spaces to follow. The goal is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community. 
+
+This code of conduct applies to all Quantitative Ecology Lab spaces, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, web channels, and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.
+
+__We expect all lab members to adhere to the policies and guidelines outlined here.__  
+
+The Quantitative Ecology Lab is dedicated to providing a bullying-free and harassment-free experience for everyone, regardless of race, nationality, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, or religion. We do not tolerate bullying or harassment of participants in any form and prioritize marginalized people’s safety over privileged people’s comfort.  
+
+Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. [UBC](https://bullyingandharassment.ubc.ca) provides definitions and examples of bullying and harassment.  
+
+Harassment includes:  
+
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.  
+* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+* Deliberate misgendering or use of ‘dead’ or rejected names.
+* Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
+* Physical contact without consent or after a request to stop.
+* Threats of violence.
+* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
+* Deliberate intimidation.
+* Stalking or following.
+* Harassing photography or recording, including logging online activity for harassment purposes.
+* Sustained disruption of discussion.
+* Unwelcome sexual attention.
+* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+* Continued one-on-one communication after requests to cease.
+* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
+* Publication of non-harassing private communication.  
+
+The Quantitative Ecology Lab prioritizes marginalized people’s safety over privileged people’s comfort. The PI (Michael Noonan) reserves the right not to act on complaints regarding:  
+
+* ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
+* Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
+* Communicating in a ‘tone’ you don’t find congenial
+* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
+
+### Reporting
+
+If you are being harassed by a member of the Quantitative Ecology Lab, notice that someone else is being harassed, or have any other concerns, please contact Dr. Michael Noonan, at [michael.noonan@ubc.ca](mailto:michael.noonan@ubc.ca). If you do not wish to contact Dr. Noonan, please contact Department Chair. We will respond as promptly as we can.  
+
+Lab members who believe they have been subjected to any kind of discrimination that conflicts with the University of British Columbia's policies and/or the laws of the Province of British Columbia should seek assistance from a supervisor or an HR representative. You can find a link to university policies [here](https://equity.ubc.ca/resources/policies-reports/).
+
+This code of conduct applies to Quantitative Ecology Lab spaces, but if you are being harassed by a member of the Quantitative Ecology Lab or another member of the community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by lab members seriously. This includes harassment outside our spaces and harassment that took place at any point in time.  
+
+To protect our team members from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.  
+
+The above caveats noted, we will respect confidentiality requests for the purpose of protecting victims of abuse when possible. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Quantitative Ecology Lab members or the general public. We will not name harassment victims without their affirmative consent.  
+
+### Consequences
+
+Participants asked to stop any harassing behavior are expected to comply immediately.  
+
+If a participant engages in harassing behavior, Dr. Noonan may take any action they deem appropriate, which includes referral to the Department Chair, and also including expulsion from all Quantitative Ecology Lab spaces.
+
+
+
+### License and attribution
+
+This anti-harassment policy has been adapted from the [Gaynor Manual](https://gaynor-lab.github.io/lab-manual/philosophy.html#code-of-conduct), which is based on the [Faylab Manual](https://thefaylab.github.io/lab-manual/03-code-of-conduct.html), and the [example policy created by the Geek Feminism community](https://geekfeminism.wikia.org/wiki/Community_anti-harassment).

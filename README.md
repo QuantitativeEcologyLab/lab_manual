@@ -1,2 +1,1 @@
-# lab_manual
-Lab manual for the Quantitative Ecology Lab
+This bookdown document is intended to be used for incoming, current, and outgoing members of the Quantitative Ecology Lab group. See published version [here](https://gaynor-lab.github.io/lab-manual/). If you feel that we have missed something, please let Dr. Noonan (michael.noonan@ubc.ca) know.

@@ -1,0 +1,130 @@
+# Research practices & resources {#research}
+
+## Data management and coding
+
+The Quantitative Ecology Lab is committed to principles of open and reproducible science. Our primary coding language is ```R```, although you are encouraged to explore other tools that better fit your needs. 
+
+All data cleaning and analysis should be conducted in scripts and raw data files should never be altered. There will be a learning curve at first, and you may be tempted to open up your data files and manipulate them in Excel, but the time investment in learning how to wrangle data in ```R``` will pay off in the long run.
+
+Code should be complete and well-documented, including information in a README about what each file does and the workflow to run the code. You are __STRONGLY__ encouraged to code in base R as opposed to tidyverse. If you choose to code in tidyverse, know that Dr. Noonan will not be able to help you with your code.
+
+### GitHub for project management
+
+We use GitHub for managing research projects. We have a [lab GitHub organization](https://github.com/QuantitativeEcologyLab), which you should join upon entry to the lab. All project repositories should be housed within the lab's GitHub organization. This is critically important for ensuring an institutional memory within the lab, and ensuring projects can be continued and/or built upon after someone leaves the lab. You are of course welcome to create repositories within your personal github for any of your personal side projects.
+
+In general, each thesis chapter/publication should have a corresponding repository, and you should create your project repository as soon as you begin managing your data and developing code. 
+
+Consider the following points when creating and maintaining a GitHub repository:
+
++ The name should be short, but informative and separated by underscores "_" __not__ dashes "-".
++ Code for published papers will eventually need to be made public, but you may chose to create a private repository during the early stages of the work. Talk to Dr. Noonan early if you have any reservations about making a repository public.
++ __Sensitive data should not be stored on GitHub.__ Speak with Dr. Noonan before uploading any data to github. Take advantage of .gitignore to prevent sensitive data from being uploaded to github.
++ GitHub is not designed for large file storage. If your project involves large files, you may need to find an alternative data management system. Speak with Dr. Noonan about this if it is relevant for your project.
++ GitHub repositories should be used for storing code, data, and figures. Writing, posters, and presentations should not be stored within a project's GitHub repository.
++ Files in your repository should be logically organised within folders and have easily interpretable names.
++ Ensure you have a detailed README that provides enough information for others to navigate and use your work.
++ Commit whenever you make a meaningful change to your code or data and treat your commit messages and GitHub issues as the computational equivalent of a lab notebook.
++ All repositories should include a LICENSE file. The lab default is MIT unless there is a specific reason to use something else. Discuss with Dr. Noonan if you are unsure.
++ When documenting dependencies, include the version number alongside each package (e.g., ctmm v1.2.1). This is essential for reproducibility, as package behaviour can change between versions.
++ Set up your .gitignore file before your first commit. Files like .DS_Store and .Rhistory should be excluded from the repository. A template .gitignore for R projects can be found [here](https://github.com/github/gitignore/blob/main/R.gitignore).
+
+You can refer to the following repositories for how to structure your own:
+
++ https://github.com/QuantitativeEcologyLab/microplastics_brazil
++ https://github.com/QuantitativeEcologyLab/maraca_jaguars
++ https://github.com/QuantitativeEcologyLab/mammal_sperm_declines
+
+
+### Data management
+
+Data used in support of your projects should be:
+
+* Saved in appropriate, non-proprietary format with accompanying metadata
+* Either in a public archive (e.g., the github repo or another public archive, like [Borealis](https://borealisdata.ca/)), or if data is proprietary, a 'snapshot' version of the data used in the project should be saved in a private repository accessible to lab members.
+* Linked and briefly described in the project README.
+
+The average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. *Dr. Noonan is presently working on this and more details will be provided at a later date.* 
+
+
+## Writing and reading practices
+
+### Writing software
+
+Everybody has their own preferences in terms of what word processing software they prefer to work in. You are welcome to use whichever works best for you. In order of preference you are encouraged to write in: 
+
++ LaTex via overleaf (speak to Dr. Noonan about having your project set up within the lab's paid Overleaf account).
++ Word (ensure you share the document with Dr. Noonan via SharePoint).
++ Google Docs (ensure you share the document with Dr. Noonan).
++ LaTex outside of overleaf.
++ RMarkdown (R Markdown works well for reproducibility, but many of the journals we publish in do not accept markdown files, and it is difficult to collaborate via markdown).
+
+### Writing process
+
+Everybody has their own writing process, and we won't micromanage each other, but there are a few principles and practices that will greatly facilitate the collaborative writing process.
+
+The Quantitative Ecology Lab is a safe environment for sharing drafts of in-progress material. You should feel comfortable sharing drafts of materials in an imperfect state. That said, don't waste your supervisor, labmates' time with unreadable material.
+
+Before you commit to writing a chapter or manuscript, you should share an outline with Dr. Noonan. This outline should include a breakdown of the topic of each paragraph, and ideally drafts (even hand-drawn) of the key figures. We will then discuss the outline and decide what elements or analyses are still needed to finalize the story. You can expect me to provide general feedback on what would be the best story we can write with the data we have, or what data we may need to add. It is always easier to finalize the contents and story in the outline process than once the manuscript is already written.
+
+All co-authors must provide approval on the final manuscript prior to submission. Dr. Noonan and your co-authors will provide guidance on target journals and the submission process, including writing cover letters and addressing reviewer feedback.
+
+Oftentimes, when sharing your draft, your readers will leave you feedback as comments on the document. For substantive comments, you should ideally handle them as follows:
+
+a) do your best to address the comment by revising the document (if you agree)
+b) respond to the comment and let them know how you addressed it (or why you didn’t address it, if you disagree)
+c) let the person who left the original comment resolve/delete it when they review the next draft
+
+This is helpful for when your co-authors revisit the draft later on and see how their feedback was addressed. It also trains you in how to respond to and handle feedback. 
+
+
+### Reference management
+
+DO NOT manage your references by hand. Use a reference management system. Find a reference management system that works for you, if you don't already have one, and start using it early in your time in the Quantitative Ecology Lab to organize papers as you read them.
+
+It is a good idea to develop a system for staying on top of the relevant literature in your field and subfields, which may include the following practices:
+
++ Set Google Scholar alerts for keywords or authors
++ Create an RSS feed for journals in your field
++ Subscribe to e-mail updates for journal tables of contents
+
+## Figures
+
+Figures are a deeply important aspect of the scientific process and you should craft your figures with care. Some things to keep in mind when preparing your figures include:
++ Aspect ratios (is the aspect ratio appropriate for the range of the data?).
++ Label sizes (can the axes be easily read).
++ Units (do all of my axes have units).
++ Resolution (is the resolution appropriate? 600dpi tends to be a good choice).
++ Maintain consistency across figures within a paper (e.g., same fonts, same colour scheme, same style). Switching between figures makes it unnecessarily difficult to interpret your results.
++ Save your files as TIFF or PNGs. 
+
+Colour choice is also extremely important when preparing your figures and colour palettes should be chosen with care. Always strive to produce colourblind friendly figures. Useful resources for identifying appropriate colour palettes include:
+
++ [The colour palettes developed by Fabio Crameri](https://www.fabiocrameri.ch/colourmaps/)
++ [The ```scico``` package](https://github.com/thomasp85/scico)
++ [iWantHue](https://medialab.github.io/iwanthue/)
++ [Coolors](https://coolors.co/)
+
+If you're looking for vector silhouettes of an organism, check out [PhyloPic](https://www.phylopic.org/). All available for reuse. 
+
+
+## Writing peer reviews
+
+Peer review is an important part of science, and you will be given opportunities to jointly peer review manuscripts for scientific journals during your time in the Quantitative Ecology Lab. Writing peer reviews can help you to become a more thoughtful, engaged, and informed scientist, and lead to improvements in your own work while giving back to the scientific community and shedding light on the peer review process from the other side.
+
+Some good resources for peer review include:
+
++ [PLOS "How to Write a Peer Review"](https://plos.org/resource/how-to-write-a-peer-review/)
++ [Rebecca Sear, "Good Practices in Peer Review"](https://osf.io/aujs4)
++ [Brian Lucey, The Guardian, "Peer Review - How to Get It Right"](https://www.theguardian.com/higher-education-network/blog/2013/sep/27/peer-review-10-tips-research-paper)
++ [Jennifer Raff, "How to become good at peer review"](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/)
+
+
+## Generative AI policy
+
+UBC has [explicit guidelines](https://genai.ubc.ca/guidance/) on the use of generative AI and you should familiarise yourself with these.
+
+At present the Quantitative Ecology Lab has no substantive AI policy above and beyond UBC's guidance, but this is likely to change. During your time in the lab, you are expected to learn how to think critically, solve problems, write in your own voice, improve your communication skills, and develop coding and data analysis abilities. While Generative AI and large language models (LLMs) can help with this, they are easily used to replace “thinking” in a way that can have a detrimental impact on your professional development at this stage. You can expect Dr. Noonan to speak with you if a substantial portion of your writing consistently appears to be AI generated. Therefore, LLMs should not be used to draft scientific writing (e.g., abstracts, manuscripts, proposals, or thesis chapters) as this undermines the development of your own scientific voice and reasoning. However, LLMs can be very useful tools for a variety of applications that are relevant to your future careers. The Quantitative Ecology Lab recognises the usefulness of these tools alongside their limitations and the potential impact on individual growth, and contextualise that with the environmental impact of increased computing power, equitability and access issues, and general ethical questions around their use (training data sets, intellectual property, etc.). 
+
+A note that UBC advocates for the use of Microsoft Copilot, as the data are all stored on Canadian servers, and your inputs are not used to train the model. UBC has an organization version of Copilot that is free for all students and faculty. You can access Copilot at https://portal.office.com/, and be sure you are logged in with your UBC Microsoft account.
+
+**Do not input unpublished data, novel research ideas, or sensitive material into any LLM without first understanding that platform's data retention and training policies.**

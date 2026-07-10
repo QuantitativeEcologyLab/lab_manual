@@ -1,0 +1,11 @@
+bookdown::gitbook:
+  css:
+   # - lib/css/bootstrap.min.css
+    - assets/style.css
+   # - lib/css/lesson.css
+  includes:
+  config:
+    toc:
+      before: |
+        <li><a href="./">Quantitative Ecology Lab Manual</a></li>
+    download: ["pdf"]
