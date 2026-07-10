@@ -63,7 +63,7 @@ I (Dr. Noonan) will make every effort to meet these expectations for each member
 
 This guidance is intended for graduate students who have me (Dr. Noonan) on their committees, or who are interested in having me serve on their committee. Serving on graduate student committees is a rewarding responsibility and I enjoy the opportunity to dive into a diversity of research topics, learn about new disciplines, and lend expertise and advice when relevant. To allow us to get the most out of the student-committee member relationship, I am laying out some general expectations, which we can discuss and adapt according to your individual needs. Ultimately, this guidance will enable me to better support you as a committee member. 
 
-#### What I expect of you:
+### What I expect of you:
 
 + Touch base with me at least once a year (ideally once a term), even if just a brief e-mail to let me know where you're at with your project, and what's on the horizon.
 + Plan to check in with me before embarking on a major aspect of your project (e.g., data collection, analyses), either during committee meetings, one-on-one meetings, or via e-mail. I do not intend on overriding your supervisor's advice, but this will allow me to give constructive feedback on study design before you have invested a significant amount of time.  
@@ -73,7 +73,7 @@ This guidance is intended for graduate students who have me (Dr. Noonan) on thei
 + For comprehensive exams, please discuss reading lists with me several months in advance.
 + I do not believe that being a committee member in-and-of-itself warrants co-authorship on any papers arising from your thesis. However, if my engagement with your work rises to the level of a collaborator (e.g., regular meetings, direct contributions to study design, analysis, and/or writing) co-authorship is something we should discuss explicitly and early.
 
-#### What you can expect of me:
+### What you can expect of me:
 
 + I will give thoughtful feedback on your proposals and chapters either during meetings or in writing. This feedback will be timely, assuming ample advance notice as discussed above.
 + If my level of engagement is rising to the level of a coauthor/collaborator (something that we should determine in consultation with your primary advisor), you can expect me to provide an even higher level of contribution (more direct edits to writing, code contributions, greater intellectual engagement, more frequent meetings, etc.).
