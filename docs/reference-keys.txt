@@ -74,6 +74,7 @@ zoom
 printing
 poster-printing
 travel
+travel-expenses
 fieldwork
 planning
 field-safety
