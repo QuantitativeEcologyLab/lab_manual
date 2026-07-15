@@ -114,3 +114,24 @@ The Quantitative Ecology Lab works as a team, not a collection of individuals. I
 We have a shared, flexible research brainstorming document in the [lab's private GitHub repository](https://github.com/QuantitativeEcologyLab/LabInfo). This document serves multiple purposes: not forgetting our ideas, sharing feedback on ideas, keeping track of data sets and collaborations, coming up with potential student projects, and making sure we loop each other in on projects that interest us and don’t duplicate effort. If you add an idea to the doc, please add your name, and nobody should move forward with  or "give away" an idea without checking in with the person who put it on there. We should not feel like we have to hide ideas from each other, nor that we can’t pursue an idea that someone else is also interested in. Please keep this document internal to our lab. I know there is no shortage of good ideas and I highly encourage cross-lab collaboration, but I want to be sure that everybody who is using this document understands the ground rules and feels like they can share ideas safely without the fear of getting `scooped'.
 
 Additionally, there will be opportunities for collaboration through co-authoring lab papers. These papers will typically be led by one lab member with some expertise in that subject and all other lab members who are interested in the topic are invited to help. These papers may be meta-analyses, systematic reviews, conceptual frameworks, or other types of research that probably wouldn't be part of a graduate thesis and can benefit from the lab's diversity of knowledge. We aim to write around one lab paper a year and expect every lab member who's interested to have the chance to lead such a paper. We have a document in the GitHub repository to record ideas for potential papers.
+
+## Offboarding
+
+Leaving the lab is an important transition and a little planning goes a long way toward ensuring your work can be continued and that you leave with everything you need. The formal offboarding process is still under development. Nonetheless, before your last day, please make sure you have done the following:
+
++ Discussed timelines with Dr. Noonan. If you have papers, analyses, or other projects that are not yet complete at the time of your departure, make a clear plan with Dr. Noonan for how and when these will be finished. This conversation should happen well before your last day, not on it.
++ Ensure access to your files. Make sure that all of your project files, data, and code are up to date in the lab GitHub organisation before you leave. You will retain access to your personal GitHub account and any repositories you have contributed to, but confirm with Dr. Noonan that you have copies of everything you need for ongoing work after your departure.
++ Flag any barriers to project completion. If there are factors that may prevent you from completing outstanding work after you leave (e.g., loss of software access, data access restrictions, time constraints) raise these with Dr. Noonan as early as possible so we can work around them together.
++ Ensure you have collected any personal belongings from the lab.
++ Your CWL account will persist after graduation as an alumni account, but access to some UBC services will change. Most notably, your UBC student email and any files stored in associated Microsoft 365 services (OneDrive, SharePoint) will be decommissioned 18 months after graduation. Before you leave, ensure you have downloaded or transferred any files you will need for ongoing work. Remote access to most UBC Library electronic resources will also be restricted after graduation, though alumni retain access to a subset of resources via the alumni UBC app. See [UBC IT's alumni email transition page](https://it.ubc.ca/projects/ubc-alumni-email-transition) and the [UBC Library alumni resources guide](https://guides.library.ubc.ca/alumniresources) for details.
+
+### Reference letters
+
+I am always happy to serve as reference for past and present members of the Quantitative Ecology Lab. When asking for a letter of reference, please reach out at least three weeks before the reference is due. Writing a letter under a shorter timeline may be possible, but the quality may not be as high. 
+
+To help me write the strongest possible letter, please provide the following when you reach out:
+
++ A current CV.
++ A description of the position or opportunity you are applying for, including any specific criteria or competencies that will be evaluated.
++ Any aspects of your time in the lab or your broader experience that you would like me to emphasise.
++ The submission deadline and any instructions for how the letter should be submitted.

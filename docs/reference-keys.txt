@@ -28,6 +28,7 @@ work-schedule
 work-hours-for-postdocs-and-graduate-students
 work-hours-for-undergraduates
 work-hours-for-research-assistants
+sickness-policy
 vacation
 research-integrity
 communication
@@ -43,6 +44,8 @@ e-mail-etiquette
 slack
 phone
 lab-collaboration
+offboarding
+reference-letters
 research
 data-management-and-coding
 github-for-project-management
@@ -70,6 +73,7 @@ filing-reimbursement
 zoom
 printing
 poster-printing
+travel
 fieldwork
 planning
 field-safety
